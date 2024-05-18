@@ -63,7 +63,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Scientist
-          company: HP Labs
+          company: Hewlett Packard Labs
           company_url: ''
           company_logo:
           location: SF Bay Area, California
