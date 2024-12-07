@@ -29,9 +29,9 @@ bio: My research interests include distributed systems, program analysis and (mo
 
 # Interests to show in About widget
 interests:
-  - Distributed systems
+  - High performance computing
+  - Networked systems for AI
   - Program analysis
-  - Systems for ML
 
 # Education to show in About widget
 education:
@@ -120,8 +120,8 @@ social:
 highlight_name: true
 ---
 
-Ayush Goel is a Research Scientist in the [Distributed Systems lab (NDSL)](https://scholar.google.com/citations?user=g6ZuC7QAAAAJ) at Hewlett Packard Labs. He got his PhD in Computer Science from the University of Michigan in Oct 2023. He was affiliated with the [Systems](https://systems.engin.umich.edu/) Lab where he was advised by [Harsha V. Madhyastha](https://web.eecs.umich.edu/~harshavm/)
-and [Ravi Netravali](https://web.cs.ucla.edu/~ravi/). His research interests lie at the intersection of distributed systems and programming languages.
+Ayush Goel is a Research Scientist in the [Distributed Systems lab (NDSL)](https://scholar.google.com/citations?user=g6ZuC7QAAAAJ) at Hewlett Packard Labs. He got his PhD in Computer Science from the University of Michigan in Oct 2023. He was affiliated with the [Systems](https://systems.engin.umich.edu/) Lab where he was advised by [Harsha V. Madhyastha](https://www.harsha.usc.edu/)
+and [Ravi Netravali](https://www.cs.princeton.edu/~ravian/). His research interests lie at the intersection of distributed systems and programming languages.
 During his PhD, he investigated the application of PL techniques on the modern web, and built systems that leverage fine-grained data-flow, control-flow analysis of web computations to improve
 information exchange on the web. He has also worked on geo-distributed storage systems and software-defined WANs.
 

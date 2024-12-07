@@ -9,7 +9,7 @@ view: 2
 
 ## 2023
 
-**November 2023** Joined HP Labs as a Research Scientist.\
+**November 2023** Joined Hewlett Packard Labs as a Research Scientist.\
 **September 2023** Final dissertation defense is scheduled for Monday, 25th September, 1-3pm ET. 
 It is a public-hybrid event, feel free to reach out if you are interested in joining.\
 **August 2023** Selected for the SOSP 2023 student scholarship. Excited to connect with

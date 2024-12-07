@@ -70,9 +70,9 @@ sections:
           date_start: '2023-11-03'
           date_end: ''
           description: |2-
-              * Researcher in the Networking and Distributed Systems Lab
-              * Innovating in the field of systems for ML, high-performance computing
-              * Publishing research at systems and networking conferences
+              * Research Scientist in the Networking and Distributed Systems Lab
+              * Leading efforts on distributed systems for LLM serving
+              * Other areas: Network for AI, CXL-based disaggregated memory solutions
         - title: Research Engineer
           company: IBM Research
           company_url: ''
@@ -81,8 +81,8 @@ sections:
           date_start: '2016-07-20'
           date_end: '2017-08-31'
           description: |2-
-              * Worked for the HPC (high performance computing) team
-              * Built orchestration tools for Machine learning as a Service for IBM Watson
+              * High performance computing
+              * Built orchestration tools for Machine-learning-as-a-Service for IBM Watson
     design:
       columns: '2'
   # - block: accomplishments
@@ -135,7 +135,7 @@ sections:
         ([All News](./news/))
       text: |2-
         **February 2024** Excited to serve on the NSDI'25 program committee.\
-        **November 2023** Joined HP Labs as a Research Scientist.\
+        **November 2023** Joined Hewlett Packard Labs as a Research Scientist.\
         **September 2023** Final dissertation defense is scheduled for Monday, 25th September, 1-3pm ET. 
         It is a public-hybrid event, feel free to reach out if you are interested in joining.\
         **August 2023** Selected for the SOSP 2023 student scholarship. Excited to connect with
