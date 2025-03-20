@@ -68,7 +68,7 @@ featured: false
 url_pdf: 'uploads/pando.pdf'
 # url_code: 'https://github.com/goelayu/Sprinter'
 # url_dataset: 'https://github.com/goelayu/Sprinter'
-url_poster: ''
+url_poster: 'uploads/nsdi-20-poster.pdf'
 url_project: ''
 # url_slides: ''
 # url_source: 'uploads/sprinter-2024.pdf'

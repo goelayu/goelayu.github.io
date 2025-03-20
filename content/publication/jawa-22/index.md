@@ -67,7 +67,7 @@ featured: true
 url_pdf: 'https://www.usenix.org/system/files/osdi22-goel.pdf'
 url_code: 'https://www.github.com/goelayu/Jawa.git'
 url_dataset: 'https://www.github.com/goelayu/Jawa.git'
-url_poster: 'https://goelayu.github.io/files/jawa-poster.pdf'
+url_poster: 'uploads/jawa-poster.pdf'
 url_project: ''
 url_slides: 'https://www.usenix.org/sites/default/files/conference/protected-files/osdi22_slides_goel.pdf'
 url_source: 'https://webresearch.eecs.umich.edu/jawa/'
