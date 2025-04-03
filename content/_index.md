@@ -139,10 +139,7 @@ sections:
         **February 2024** Excited to serve on the NSDI'25 program committee.\
         **November 2023** Joined Hewlett Packard Labs as a Research Scientist.\
         **September 2023** Final dissertation defense is scheduled for Monday, 25th September, 1-3pm ET. 
-        It is a public-hybrid event, feel free to reach out if you are interested in joining.\
-        **August 2023** Selected for the SOSP 2023 student scholarship. Excited to connect with
-        other systems researchers in Germany this fall.\
-        **July 2023** Our work Sprinter got accepted at NSDI'24.
+        It is a public-hybrid event, feel free to reach out if you are interested in joining.
       
       # count: 5
       # filters:
