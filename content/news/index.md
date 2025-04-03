@@ -3,6 +3,11 @@ title: News
 view: 2
 ---
 
+## 2025
+
+**April 2025** I am thrilled to join Meta's Network Infra for AI group (Network.AI) as a Research Scientist.
+**February 2025** Excited to serve on the NSDI'26 technical program committee. 
+
 ## 2024
 
 **February 2024** Excited to serve on the NSDI'25 program committee.
