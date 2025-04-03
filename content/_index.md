@@ -134,6 +134,8 @@ sections:
         Recent News\
         ([All News](./news/))
       text: |2-
+        **April 2025** I am thrilled to join Meta's Network Infra for AI group (Network.AI) as a Research Scientist.\
+        **February 2025** Excited to serve on the  NSDI'26 technical program committee.\
         **February 2024** Excited to serve on the NSDI'25 program committee.\
         **November 2023** Joined Hewlett Packard Labs as a Research Scientist.\
         **September 2023** Final dissertation defense is scheduled for Monday, 25th September, 1-3pm ET. 
