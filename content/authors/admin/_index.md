@@ -21,8 +21,8 @@ role: Systems Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Hewlett Packard Labs
-    url: https://www.labs.hpe.com
+  - name: Meta
+    url: https://ai.meta.com/infrastructure/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed systems, program analysis and (more recently) systems for ML.
@@ -93,7 +93,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:ayush.goel@hpe.com
+    link: mailto:ayushgoel.cs@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/goelayu_sh
