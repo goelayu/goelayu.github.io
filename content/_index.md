@@ -63,12 +63,19 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Scientist
+          company: Meta
+          location: SF Bay Area, California
+          date_start: '2025-4-04'
+          date_end:''
+          decription: 2-
+            * Research Scientist in the Network.AI group in the NetInfra org
+        - title: Research Scientist
           company: Hewlett Packard Labs
           company_url: ''
           company_logo:
           location: SF Bay Area, California
           date_start: '2023-11-03'
-          date_end: ''
+          date_end: '2025-4-01'
           description: |2-
               * Research Scientist in the Networking and Distributed Systems Lab
               * Leading efforts on distributed systems for LLM serving
