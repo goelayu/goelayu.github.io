@@ -5,8 +5,11 @@ view: 2
 
 ## 2025
 
+**November 2025** Two patents, based on my work at HPE labs, on optimized LLM inference serving got filed. \
+**October 2025** Our work on Workload-Adaptive Cluster Scheduler for Latency-Optimal
+  LLM Inference Serving got accepted at [EuroSys'26](https://2026.eurosys.org/).\
 **April 2025** I am thrilled to join Meta's Network Infra for AI group (Network.AI) as a Research Scientist.\
-**February 2025** Excited to serve on the NSDI'26 technical program committee. 
+**February 2025** Excited to serve on the NSDI'26 technical program committee.
 
 ## 2024
 
@@ -15,12 +18,12 @@ view: 2
 ## 2023
 
 **November 2023** Joined Hewlett Packard Labs as a Research Scientist.\
-**September 2023** Final dissertation defense is scheduled for Monday, 25th September, 1-3pm ET. 
+**September 2023** Final dissertation defense is scheduled for Monday, 25th September, 1-3pm ET.
 It is a public-hybrid event, feel free to reach out if you are interested in joining.\
 **August 2023** Selected for the SOSP 2023 student scholarship. Excited to connect with
 other systems researchers in Germany this fall.\
 **July 2023** Our work Sprinter got accepted at NSDI'24.\
-**January 2023** Defended my thesis proposal. A step closer to graduation. 
+**January 2023** Defended my thesis proposal. A step closer to graduation.
 
 ## 2022
 
@@ -29,7 +32,7 @@ other systems researchers in Germany this fall.\
 **July 2022** Presented our work [Jawa](https://goelayu.github.io/publication/jawa-2022) at [OSDI'22](https://www.usenix.org/conference/osdi22/presentation/goel). \
 **May 2022** Presented our work [Jawa](https://goelayu.github.io/publication/jawa-2022) at [IIPC's Web Archiving Conference'22](https://netpreserve.org/ga2022/wac/abstracts/#Session_13_Poster_6).\
 **March 2022** Our work [Jawa](https://goelayu.github.io/publication/jawa-2022) got accepted at [OSDI'22](https://www.usenix.org/conference/osdi22).\
-**Feb 2022** Submitted a paper to SIGCOMM'22 co-authored with [Muhammed Uluyol](https://uluyol.xyz/) 
+**Feb 2022** Submitted a paper to SIGCOMM'22 co-authored with [Muhammed Uluyol](https://uluyol.xyz/)
 
 ## 2021
 
@@ -45,4 +48,4 @@ other systems researchers in Germany this fall.\
 ## 2019
 
 **Dec 2019** Our work [Pando](https://goelayu.github.io/publication/pando-2020) was accepted at [NSDI'20](https://www.usenix.org/conference/nsdi20).\
-**Sept 2019** Passed my prelims exams. Upgraded to PhD candidate. 
+**Sept 2019** Passed my prelims exams. Upgraded to PhD candidate.

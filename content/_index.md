@@ -136,17 +136,17 @@ sections:
   - block: markdown
     id: news
     content:
-      title: |2- 
+      title: |2-
         Recent News\
         ([All News](./news/))
       text: |2-
+        **November 2025** Two patents, based on my work at HPE labs, on optimized LLM inference serving got filed. \
+        **October 2025** Our work on Workload-Adaptive Cluster Scheduler for Latency-Optimal
+        LLM Inference Serving got accepted at [EuroSys'26](https://2026.eurosys.org/).\
         **April 2025** I am thrilled to join Meta's Network Infra for AI group (Network.AI) as a Research Scientist.\
         **February 2025** Excited to serve on the  NSDI'26 technical program committee.\
-        **February 2024** Excited to serve on the NSDI'25 program committee.\
-        **November 2023** Joined Hewlett Packard Labs as a Research Scientist.\
-        **September 2023** Final dissertation defense is scheduled for Monday, 25th September, 1-3pm ET. 
-        It is a public-hybrid event, feel free to reach out if you are interested in joining.
-      
+        **February 2024** Excited to serve on the NSDI'25 program committee.
+
       # count: 5
       # filters:
       #   folders:
@@ -238,7 +238,7 @@ sections:
         folders:
           - publication
         featured_only: true
-      count: 
+      count:
     design:
       columns: '2'
       view: citation
@@ -282,7 +282,7 @@ sections:
   #     # # Choose a map provider in `params.yaml` to show a map from these coordinates
   #     # coordinates:
   #     #   latitude: '37.4275'
-  #     #   longitude: '-122.1697'  
+  #     #   longitude: '-122.1697'
   #     contact_links:
   #       - icon: twitter
   #         icon_pack: fab
