@@ -1,0 +1,45 @@
+{{/* Hugo Blox: Experience - Clean Minimal Design */}}
+{{/* Custom override for cleaner aesthetics */}}
+
+{{/* Initialise */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $columns := $block.design.columns | default "1" }}
+
+<!-- Experience widget - Clean Design -->
+<div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
+  {{ with $block.content.text }}{{ . | emojify | $page.RenderString }}{{ end }}
+
+  {{ if $block.content.items }}
+  <div class="experience-list">
+    {{ range $idx, $key := $block.content.items }}
+    <div class="experience-item {{ if $idx }}experience-item-border{{ end }}">
+      <div class="experience-header">
+        <div class="experience-title-row">
+          <span class="experience-title">{{ .title | markdownify | emojify }}</span>
+          <span class="experience-company">
+            {{- with .company_url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end -}}
+            {{ .company | markdownify | emojify }}
+            {{- with .company_url }}</a>{{ end -}}
+          </span>
+          {{ with .location }}<span class="experience-location">{{ . }}</span>{{ end }}
+        </div>
+        <div class="experience-date">
+          {{ (time .date_start) | time.Format ($block.Params.date_format | default "January 2006") }} –
+          {{ if .date_end }}
+            {{ (time .date_end) | time.Format ($block.Params.date_format | default "January 2006") }}
+          {{ else }}
+            {{ i18n "present" | default "Present" }}
+          {{ end }}
+        </div>
+      </div>
+      {{ with .description }}
+      <div class="experience-description">
+        {{ . | markdownify | emojify }}
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+</div>

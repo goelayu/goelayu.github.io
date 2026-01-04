@@ -5,12 +5,6 @@
     z-index: 0;
 }
 
-.experience .card-text,
-.experience .card-text p {
-    color: #000 !important;
-    font-size: 0.85rem !important;
-}
-
 ul.ul-edu li .description p.institution {
     font-size: 0.85rem;
     color: rgba(0, 0, 0, 0.6);
@@ -21,4 +15,121 @@ ul.ul-edu li .description p.institution {
     font-weight: 700;
     line-height: 1.5;
     text-transform: uppercase;
+}
+
+/* =============================================
+   EXPERIENCE SECTION - CLEAN MINIMAL DESIGN
+   ============================================= */
+
+.experience-list {
+  margin-top: 0.5rem;
+}
+
+.experience-item {
+  padding: 0.75rem 0;
+}
+
+.experience-item-border {
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.experience-header {
+  margin-bottom: 0.4rem;
+}
+
+.experience-title-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.15rem 0.5rem;
+  line-height: 1.4;
+}
+
+.experience-title {
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: #1a1a1a;
+}
+
+.experience-company {
+  font-size: 1.05rem;
+  color: #555;
+}
+
+.experience-company a {
+  color: #555;
+  text-decoration: none;
+  border-bottom: 1px dotted #999;
+}
+
+.experience-company a:hover {
+  color: var(--link-color, #1565c0);
+  border-bottom-color: var(--link-color, #1565c0);
+}
+
+.experience-location {
+  font-size: 0.85rem;
+  color: #777;
+}
+
+.experience-location::before {
+  content: "•";
+  margin-right: 0.5rem;
+  color: #ccc;
+}
+
+.experience-date {
+  font-size: 0.8rem;
+  color: #888;
+  margin-top: 0.15rem;
+}
+
+.experience-description {
+  margin-top: 0.35rem;
+  font-size: 0.95rem;
+  color: #444;
+  line-height: 1.5;
+}
+
+.experience-description ul {
+  margin: 0;
+  padding-left: 1.1rem;
+  list-style-type: disc;
+}
+
+.experience-description li {
+  margin-bottom: 0.1rem;
+}
+
+.experience-description p {
+  margin: 0;
+}
+
+/* Dark mode support */
+.dark .experience-title {
+  color: #f0f0f0;
+}
+
+.dark .experience-company {
+  color: #bbb;
+}
+
+.dark .experience-company a {
+  color: #bbb;
+}
+
+.dark .experience-location {
+  color: #999;
+}
+
+.dark .experience-date {
+  color: #888;
+}
+
+.dark .experience-description {
+  color: #ccc;
+}
+
+.dark .experience-item-border {
+  border-top-color: rgba(255, 255, 255, 0.1);
 }
